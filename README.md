@@ -14,7 +14,11 @@ BOT Click: [NotPixel Bot](t.me/notpixel/app?startapp=f921415493)
 - `pip` (trình cài đặt gói Python)
 
 ## Installation
-
+1. **Clone this repository:**
+   - Mở cmd hoặc Shell, sau đó chạy lệnh:
+    ```sh
+    git clone
+    ```
 2. **Install Module:**
    - Mở cmd hoặc Shell, sau đó chạy lệnh:
     ```sh
