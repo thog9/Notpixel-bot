@@ -17,7 +17,8 @@ BOT Click: [NotPixel Bot](t.me/notpixel/app?startapp=f921415493)
 1. **Clone this repository:**
    - Mở cmd hoặc Shell, sau đó chạy lệnh:
     ```sh
-    git clone
+    git clone https://github.com/thog9/Notpixel-bot.git
+    cd Notpixel-bot
     ```
 2. **Install Module:**
    - Mở cmd hoặc Shell, sau đó chạy lệnh:
